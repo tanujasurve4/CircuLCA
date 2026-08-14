@@ -16,7 +16,8 @@ Predictive insights to forecast potential environmental impacts.
 User-friendly Streamlit interface for easy navigation and analysis.
 
 
-## Project Demo <video src="./CircuLCA.mp4" width="700" controls>
-</video>
+## Project Demo 
+
+
 
 
