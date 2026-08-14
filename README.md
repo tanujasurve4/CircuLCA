@@ -15,7 +15,7 @@ Scenario analysis to compare materials, processes, and strategies.
 Predictive insights to forecast potential environmental impacts.
 User-friendly Streamlit interface for easy navigation and analysis.
 
-## 🎥 Project Demo Video
+# 🎥 Project Demo Video
 
 [▶️ Watch CircuLCA Demo](https://drive.google.com/file/d/10GuMQ7nBcpSlTMG9un16vCi7bFQriI7B/view?usp=sharing)
 
