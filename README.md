@@ -104,44 +104,6 @@ CircuLCA is designed for:
 
 ---
 
-🏗️ System Overview
-
-                         👤 Users
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-   👨‍🔬 Researcher       🏭 Industry       🏛️ Government
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                           │
-                           ▼
-                  🔐 Authentication
-                           │
-                           ▼
-                 ┌─────────────────┐
-                 │    CircuLCA     │
-                 │   Platform      │
-                 └────────┬────────┘
-                          │
-          ┌───────────────┼────────────────┐
-          │               │                │
-          ▼               ▼                ▼
-      📊 LCA          🤖 AI/ML         ♻️ Circularity
-      Analysis        Prediction        Analysis
-          │               │                │
-          └───────────────┼────────────────┘
-                          │
-                          ▼
-                 📈 KPI Dashboard
-                          │
-                          ▼
-                 🔮 Predictive Insights
-                          │
-                          ▼
-              🌱 Sustainability Decisions
-
----
-
 🔄 Data Flow
 
 Data Collection
