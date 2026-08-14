@@ -3,7 +3,7 @@ AI-Driven Life Cycle Assessment platform for analyzing environmental impact acro
 Provides interactive dashboards and scenario analysis for better sustainability decisions.
 
 Live Demo: https://lca-mining.streamlit.app/
-
+[ Click here to watch the project demo ](video_20260814_181735[1].mp4)
 How to Run : 
 1. Install dependencies: pip install -r requirements.txt
 2. Run the app: streamlit run LCA7.py
